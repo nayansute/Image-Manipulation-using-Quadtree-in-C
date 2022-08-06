@@ -1,0 +1,19 @@
+**************************By Python GUI**********************
+python<version> main.py
+
+
+*************************By command line*********************
+Compress  ./quadtree -m <n|v|h> <compression_level> <input_image> <output_image_name>
+./quadtree -m c 80 100.ppm q.ppm
+
+Decompress  ./quadtree -d <binary_input> <output_image_name>
+./quadtree -d binary.out decom.ppm
+
+Horizontal Flip  ./quadtree -m h <compression_level> <input_image> <output_image_name>
+/quadtree -m h 45 MOnalisa.ppm y.ppm
+
+Vertical Flip  ./quadtree -m v <compression_level> <input_image> <output_image_name>
+/quadtree -m v 45 MOnalisa.ppm y.ppm
+
+Overlay  ./quadtree -o <compression_level> <input_image1> <input_image2> <output_image_name>
+./quadtree -o 270 MOnalisa.ppm squares.ppm y.ppm
