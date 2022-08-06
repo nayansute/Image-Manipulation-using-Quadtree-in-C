@@ -33,4 +33,4 @@ The average colour of each pixel is calculated using the formula -
 
 python<version> main.py
 
-![Random](https://www.google.co.in/search?q=german+to+english&sxsrf=ALiCzsbt0AYP8M7zJbhY48LEwnvXoLyODw:1659805097656&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi-uvfp17L5AhXmR2wGHSVhDC8Q_AUoBHoECAEQBg&biw=1280&bih=595&dpr=1.5#imgrc=Xgz70OgyQ_0PEM)
+![Random](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/Screenshot.jpg)
