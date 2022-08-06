@@ -33,5 +33,4 @@ The average colour of each pixel is calculated using the formula -
 
 python<version> main.py
 
-
-![Random](https://github.com/nayansute/Image-Manipulation.git/to/Screenshot from 2022-08-06 19-44-37.png)
+![Random](https://github.com/nayansute/Image-Manipulation.git/blob/master/Screenshot.png?raw=true)
