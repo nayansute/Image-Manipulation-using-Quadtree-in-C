@@ -31,7 +31,7 @@ The average colour of each pixel is calculated using the formula -
 
 ## How to Run -
 
-python<version> main.py int terminal.
+python<version> main.py in terminal.
   
   
 ## The GUI:
