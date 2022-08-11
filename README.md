@@ -33,7 +33,7 @@ The average colour of each pixel is calculated using the formula -
 
 python<version> main.py
 
-![Random](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/Screenshot.jpg)
+![Random](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/screenshots/menudrawer.png)
   
   
 ## The GUI:
