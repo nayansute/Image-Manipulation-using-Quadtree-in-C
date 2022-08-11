@@ -31,28 +31,103 @@ The average colour of each pixel is calculated using the formula -
 
 ## How to Run -
 
-python<version> main.py
-
-![Random](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/screenshots/menudrawer.png)
+python<version> main.py int terminal.
   
   
 ## The GUI:
-![GUI1](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/Screenshot.jpg)
-  Menu Drawer
-![GUI1](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/Screenshot.jpg)
+![GUI1](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/screenshots/menudrawer.png)
+ 
+ Menu Drawer
+  
+  
+  
+  
+![GUI2](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/screenshots/Compress.png)
+  
+  
   Compress
-![GUI1](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/Screenshot.jpg)
+  
+  
+  
+  
+![GUI3](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/screenshots/File.png)
+  
+  
   File explorer
-![GUI1](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/Screenshot.jpg)
-  Compression levels
-![GUI1](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/Screenshot.jpg)
+  
+  
+  
+  
+![GUI4](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/screenshots/Compress.png)
+  
+  
+  Compress
+  
+  
+  
+  
+![GUI5](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/screenshots/CompressResult.png)
+  
+  
   Result is the image withe the given input threshold level
-![GUI1](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/Screenshot.jpg)
+  
+  
+  
+  
+![GUI6](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/screenshots/DecompressResult.png)
+  
+
   Decompress
-![GUI1](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/Screenshot.jpg)
-  Flip v
-![GUI1](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/Screenshot.jpg)
+  
+  
+  
+  
+![GUI7](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/screenshots/Fliph.png)
+  
+  
   Flip h
-![GUI1](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/Screenshot.jpg)
-  Overlap
+  
+  
+  
+  
+![GUI8](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/screenshots/Fliphresult.png)
+  
+  
+  Flip h result
+  
+  
+  
+  
+  
+ ![GUI7](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/screenshots/Flipv.png)
+  
+  
+  Flip v
+  
+  
+  
+  
+![GUI8](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/screenshots/FlipvResult.png)
+  
+  
+  Flip v result
+  
+  
+  
+  
+ ![GUI7](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/screenshots/overlay.png)
+  
+  
+  Overlay
+  
+  
+  
+  
+![GUI8](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/screenshots/overlayresult.png)
+  
+  
+  Overlay Result
+  
+  
+  
   
