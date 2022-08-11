@@ -7,7 +7,7 @@ A quadtree is a tree data structure in which each internal node has exactly four
 ![image](https://user-images.githubusercontent.com/69303551/127506441-b381175f-331c-4222-9afd-1dfc87e59132.png)
 
 
-## What are the functionalities inside?
+## Functions inside the project
 1)Compression of Images 
 2)Decompression of Images
 3)Horizontal or Vertical flipping of Images 
@@ -34,3 +34,25 @@ The average colour of each pixel is calculated using the formula -
 python<version> main.py
 
 ![Random](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/Screenshot.jpg)
+  
+  
+## The GUI:
+![GUI1](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/Screenshot.jpg)
+  Menu Drawer
+![GUI1](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/Screenshot.jpg)
+  Compress
+![GUI1](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/Screenshot.jpg)
+  File explorer
+![GUI1](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/Screenshot.jpg)
+  Compression levels
+![GUI1](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/Screenshot.jpg)
+  Result is the image withe the given input threshold level
+![GUI1](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/Screenshot.jpg)
+  Decompress
+![GUI1](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/Screenshot.jpg)
+  Flip v
+![GUI1](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/Screenshot.jpg)
+  Flip h
+![GUI1](https://github.com/nayansute/Image-Manipulation-using-Quadtree-in-C/blob/master/Screenshot.jpg)
+  Overlap
+  
